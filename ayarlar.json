@@ -1,0 +1,34 @@
+  {
+    "token" : "TOKEN",
+    "sahip" : "SAHİP",
+    "prefix" : ".",
+
+    "tag" : "TAG",
+  
+    "yetkiliRol" : "YETKİLİ ROLÜ",
+    "vipRol" : "VİP ROL ",
+    "boosterRol" : "BOOST ROLÜ",
+    "kayıtsızRol" : "KAYITSIZ ROL",
+    
+    "erkek1" : "ERKKE ROL",
+    "erkek2" : "ERKEK ROL 2 ",
+    "kadın1" : "KADIN ROL ",
+    "kadın2" : "KADIN ROL 2",
+
+    "fakeisim": "Cezalı",
+    "şüpheli": "JEİL ROL",
+    "log": "LOG KANALI",
+
+    "nick": "İsim | Yaş",
+
+    "tagRol" : "TAGLI ROL ",
+    "tagLog" : "TAGLI LOG",
+
+    "SunucuID" : "SUNUCU ID",
+    "hosgeldinKanal" : "WELCOME MESAJ İD",
+    "chat" : "CHAT HOŞGELDİN MESAJ İD", 
+    "botSesKanal" : "BOTU SES SOKMA İD",
+  
+    "yes" : "EMOJI YES",
+    "no" : "EMOJİ NO "
+}

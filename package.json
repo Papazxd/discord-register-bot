@@ -1,0 +1,21 @@
+{
+  "name": "papaz-register-calma",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ÇALMA SİKİRİM SİZİ :D",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.3.1",
+    "quick.db": "^7.1.2"
+  }
+}
