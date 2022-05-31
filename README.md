@@ -10,4 +10,4 @@
 
 #  İletişim
 ### Hata çıkarsa bu sunucuya gelin yardım ederim dm yazmanız yeter.
-* [Discord Sunucum](https://discord.gg/Northside)
+* [Discord Sunucum](https://discord.gg/eventus)
